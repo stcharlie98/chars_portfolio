@@ -42,7 +42,8 @@ Alguns detalhes vistos graficamente no **Power BI** foram:
 - Investimentos financeiros (fundo de emergência, renda fixa e compra de dólares) podem diminuir para alocar mais em investimentos no presente que abrirão mais oportunidades no futuro como pagamento de professor particular para aprender um 4° idioma, abertura de uma ONG e/ou inserção de novo hobby como escalada ou natação.
 - Gastos estão bem controlados, a única variação é quando há gastos imprevisíveis, o que não posso controlar 100%.
 
-  ![image](https://github.com/user-attachments/assets/6ad82ffb-0b3d-458c-8131-0f28bd523334)
+ ![image](https://github.com/user-attachments/assets/c701be31-e902-4464-9aa7-ba5ae1b6ff7d)
+
 
 A criação e a postagem deste projeto é para que eu veja meu desenvolvimento ao longo dos anos, não apenas financeiramente, mas nas habilidades enquanto Analista de Dados como design, criatividade, melhor aproveitamento dos dados e demais técnicas existentes na ferramenta como _bookmarks_ que poderão ser aplicadas.
 
