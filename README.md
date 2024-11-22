@@ -23,12 +23,30 @@
 - Criação e edição de manuais técnicos, além de suporte técnico ao cliente e ao setor de montagem dos painéis.
 
 ## Projetos
-### Controle de Finanças Pessoais
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Projeto 1: Controle de Finanças Pessoais com MS Excel e Power BI
 
-Às vezes, não conseguimos identificar padrões analisando somente os dados numéricos em uma **planilha de Excel**, portanto o uso de elementos gráficos se torna essencial para tal finalidade. Ao analisar as nuances do quanto eu ganho, invisto e gasto, consegui planejar o ano de 2025 financeiramente com metas reais a fim de poder tomar decisões mais assertivas em relação ao dinheiro. Alguns _insights_ vistos graficamente no **Power BI** foram:
-- Investimentos em mim mesmo (livros, viagens, cursos, artes marciais, alimentação e saúde) não estão condizentes com o quanto eu gostaria, consigo investir mais a fim de se desenvolver melhor como ser humano, noivo e amigo;
-- Investimentos financeiros (fundo de emergência, renda fixa e compra de dólares) podem diminuir para alocar mais em investimentos no presente que abrirão mais oportunidades no futuro como pagamento de professor particular para aprender um 4° idioma.
-- Gastos estão bem controlados, a única variação é quando há gastos imprevisíveis, pois não gosto de comprar bens materiais
+Às vezes, não conseguimos identificar padrões analisando somente os dados numéricos em uma **planilha de Excel**, portanto o uso de elementos gráficos se torna essencial para tal finalidade. Ao analisar as nuances do quanto eu ganho, invisto e gasto, consegui planejar o ano de 2025 financeiramente com metas reais a fim de poder tomar decisões mais assertivas em relação ao dinheiro. 
+#### [Excel] [dados_financeiros.xlsx](https://github.com/user-attachments/files/17877420/dados_financeiros.xlsx)
+No início, usei como referência minhas movimentações do ano de 2024 até agora:
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![image](https://github.com/user-attachments/assets/ac2cc02e-3b73-4637-b7fe-0002aef6f4f8)
+
+Assim, o ano de 2025, com exceção dos gastos imprevisíveis, foi planejado financeiramente, porém agora com uma meta de 50% para investimentos em mim mesmo:
+
+![image](https://github.com/user-attachments/assets/d541d394-0afe-4db6-a40a-d37b95f1aef6)
+
+Como não sei quais gastos imprevisíveis terei ou quais oportunidades como cursos, viagens, materiais de estudo virão a calhar, o ano de 2025 ficou abaixo da meta por enquanto, o que será ajustado de acordo com o seu decorrer.
+#### [Power BI] (https://app.powerbi.com/groups/me/reports/8adc688a-a9c5-4b6f-98f5-e64cdb797e5c?pbi_source=desktop)
+Alguns detalhes vistos graficamente no **Power BI** foram:
+- Investimentos em mim mesmo (livros, viagens, cursos, artes marciais, alimentação e saúde) não estão condizentes com o quanto eu gostaria, consigo investir mais a fim de me desenvolver melhor como ser humano, noivo e amigo;
+- Investimentos financeiros (fundo de emergência, renda fixa e compra de dólares) podem diminuir para alocar mais em investimentos no presente que abrirão mais oportunidades no futuro como pagamento de professor particular para aprender um 4° idioma, abertura de uma ONG e/ou inserção de novo hobby como escalada ou natação.
+- Gastos estão bem controlados, a única variação é quando há gastos imprevisíveis, o que não posso controlar 100%.
+
+  ![image](https://github.com/user-attachments/assets/6ad82ffb-0b3d-458c-8131-0f28bd523334)
+
+A criação e a postagem deste projeto é para que eu veja meu desenvolvimento ao longo dos anos, não apenas financeiramente, mas nas habilidades enquanto Analista de Dados como design, criatividade, melhor aproveitamento dos dados e demais técnicas existentes na ferramenta como _bookmarks_ que poderão ser aplicadas.
+
+### Projeto 2: Análise de Empréstimo Bancário com SQL e Power BI
+
+
+
